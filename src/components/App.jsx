@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { BiSearch } from 'react-icons/bi';
 import { SearchBar } from './Searchbar/SearchBar';
 import axios from 'axios';
 import { Button } from './Button/Button';
