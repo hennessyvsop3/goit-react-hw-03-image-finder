@@ -4,9 +4,9 @@ import axios from 'axios';
 import { Button } from './Button/Button';
 import { ImageGallery } from './ImageGallery/ImageGallery';
 import css from 'App.module.css';
-import { ImageGalleryItem } from './ImageGalleryItem/ImageGalleryItem';
+import { ImageGalleryItem } from './ImageGalleryItem/ImageGalleryItem' ;
 import Modal from './Modal/Modal';
-import ClipLoader from 'react-spinners/ClipLoader';
+import ClipLoader from 'react-spinners/ClipLoader' ;
 import { Error } from './Error/Error';
 
 const API_KEY = '39544542-3ccc9045419fe9efc710f49f9';
